@@ -1,0 +1,8 @@
+# Veritabanı bağlantı ayarları
+# Bu dosyayı 'config.properties' olarak kopyalayın ve kendi bilgilerinizi girin.
+
+host=localhost
+port=3306
+db_ismi=demo
+kullanici_adi=root
+parola=BURAYA_KENDI_SIFRENIZI_YAZIN
